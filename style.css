@@ -1,0 +1,26 @@
+body {
+    background-color: #ffffff;
+}
+
+p {
+    color: #000000;
+    font-size: 15px;
+}
+
+body {
+    background-image:url("https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?size=626&ext=jpg");
+
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: scroll;
+}
+
+.sofia {
+    font-family: "Sofia", san serif;
+}
+.courier {
+    font-family: "Courier New", Courier, monospace;
+}
+.verdana {
+    font-family: "Verdana", Verdana, sans-serif;
+}
